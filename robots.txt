@@ -1,0 +1,5 @@
+# Served under /FightEVsite/: crawlers do not read robots.txt here. It takes effect once the site is at the root of its own domain (site.config.mjs).
+User-agent: *
+Allow: /
+
+Sitemap: https://gotodataru.github.io/FightEVsite/sitemap.xml
